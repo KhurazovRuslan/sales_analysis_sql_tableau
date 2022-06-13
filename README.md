@@ -13,7 +13,7 @@ The project is to perform Recency-Frequency-Monetary analysis using SQL on unkno
 <li>Microsoft SQL Server Management Studio v.18.11.1</li>
 <li>Tableau Public 2022.1</li>
 <h2>Files:</h2>
-<li><a href='https://github.com/KhurazovRuslan/sales_analysis_sql_tableau/blob/main/sales_analysis.sql'>sales_analysis.sql</a> - .sql file that contains script for Microsoft SQL Server Management to perform revenue and RFM analysis using different statements, window functions, CTEs and temo tables</li>
+<li><a href='https://github.com/KhurazovRuslan/sales_analysis_sql_tableau/blob/main/sales_analysis.sql'>sales_analysis.sql</a> - .sql file that contains script for Microsoft SQL Server Management to perform revenue and RFM analysis using different statements, window functions, CTEs and temp tables</li>
 <p>
   
   
